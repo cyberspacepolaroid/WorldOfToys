@@ -1,0 +1,55 @@
+
+.col-md-4{
+  margin-bottom: 1cm;
+}
+.col-md-1{
+  margin: 1cm;
+}
+
+.cartbtn{
+  color: inherit;
+}
+.btn-danger{
+  color: inherit;
+}
+.containsearch{
+  float:left;
+  width: 15rem;
+  list-style: none;
+  margin-left: 1cm;
+  text-size-adjust: 2см;
+  
+}
+
+
+.toyshome{
+  height: 5px;
+}
+
+  
+
+
+.menudata{
+  margin-top: 15cm;
+  margin-bottom: 10cm;
+  margin-left: 1cm;
+  margin-right: 5px;
+ 
+}
+.row5{
+  display: flex;
+  margin-top: 1cm;
+  margin-bottom: 1cm;
+  margin-left: 1cm;
+  width: 15rem;
+  float: left;
+  margin: 10ch;
+  max-width: 10cm;
+  gap: 2cm;
+}
+.mh{
+  margin-bottom: 15cm;
+}
+.mh-5{
+  margin-top: 2cm;
+}
